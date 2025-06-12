@@ -149,9 +149,13 @@ const ProjectCard = ({ project }) => {
             <video
               controls
               autoPlay
+              muted
+              playsInline
               className="w-full rounded-xl shadow-lg"
-              src={project.demo}
-            />
+            >
+              <source src={project.demo} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
           </div>
         </div>
       )}
