@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import v from "../../assets/vd.mp4";
+import v from "../../../public/vd.mp4";
 import thumbnail from "../../assets/aboutme.png";
 
 const Video = () => {

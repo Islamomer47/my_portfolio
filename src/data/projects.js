@@ -2,9 +2,9 @@ import Image1 from "../../src/assets/TabManger.png";
 import Image2 from "../../src/assets/EcoSystem.png";
 import Image3 from "../../src/assets/LittleItaly.png";
 import Image4 from "../../src/assets/tickets.png";
-import v1 from "../assets/EcoSystem.mp4";
-import v2 from "../assets/LittleItaly.mp4";
-import v3 from "../assets/tickets.mp4";
+import v1 from "../../public/EcoSystem.mp4";
+import v2 from "../../public/LittleItaly.mp4";
+import v3 from "../../public/tickets.mp4";
 
 export const projects = [
   {
