@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import v from "../../../public/vd.mp4";
 import thumbnail from "../../assets/aboutme.png";
 
 const Video = () => {
@@ -25,7 +24,7 @@ const Video = () => {
 
           {videoPlaying ? (
             <video
-              src={v}
+              src="/vd.mp4"
               controls
               autoPlay
               className="w-full h-full object-cover"

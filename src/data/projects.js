@@ -2,9 +2,6 @@ import Image1 from "../../src/assets/TabManger.png";
 import Image2 from "../../src/assets/EcoSystem.png";
 import Image3 from "../../src/assets/LittleItaly.png";
 import Image4 from "../../src/assets/tickets.png";
-import v1 from "../../public/EcoSystem.mp4";
-import v2 from "../../public/LittleItaly.mp4";
-import v3 from "../../public/tickets.mp4";
 
 export const projects = [
   {
@@ -35,7 +32,7 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image2,
     github: "https://github.com/Islamomer47/Eco-Action-Tracker.git",
-    demo: v1, // mp4 demo
+    demo: "/EcoSystem.mp4",
   },
   {
     title: "Recipe-Hub",
@@ -50,7 +47,7 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image3,
     github: "https://github.com/Little-Italy-Food/Little-Italy-Food.git",
-    demo: v2, // mp4 demo
+    demo: "/LittleItaly.mp4",
   },
   {
     title: "Event Ticketing System",
@@ -65,6 +62,6 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image4,
     github: "https://github.com/Islamomer47/tickets-project.git",
-    demo: v3, // mp4 demo
+    demo: "/tickets.mp4",
   },
 ];
