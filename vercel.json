@@ -2,13 +2,6 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "has": [
-        {
-          "type": "missing",
-          "key": "path",
-          "value": ".*\\.(js|css|png|jpg|jpeg|gif|svg|mp4|webm|woff|woff2|ttf|eot|json)$"
-        }
-      ],
       "destination": "/"
     }
   ]
