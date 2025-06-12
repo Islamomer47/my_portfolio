@@ -32,7 +32,7 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image2,
     github: "https://github.com/Islamomer47/Eco-Action-Tracker.git",
-    demo: "/EcoSystem.mp4",
+    demo: "https://res.cloudinary.com/dfqpf2szg/video/upload/v1749727515/EcoSystem_fmvehl.mp4",
   },
   {
     title: "Recipe-Hub",
@@ -47,7 +47,7 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image3,
     github: "https://github.com/Little-Italy-Food/Little-Italy-Food.git",
-    demo: "/LittleItaly.mp4",
+    demo: "https://res.cloudinary.com/dfqpf2szg/video/upload/v1749727524/LittleItaly_oubqxv.mp4",
   },
   {
     title: "Event Ticketing System",
@@ -62,6 +62,6 @@ export const projects = [
     color: "from-pink-200 to-rose-400",
     image: Image4,
     github: "https://github.com/Islamomer47/tickets-project.git",
-    demo: "/tickets.mp4",
+    demo: "https://res.cloudinary.com/dfqpf2szg/video/upload/v1749727509/tickets_uhn1nz.mp4",
   },
 ];
