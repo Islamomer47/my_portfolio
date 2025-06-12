@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "availability": "Open for Freelance & Collaboration",
+    "heading": "Build & Empower",
+    "bio": "I’m Islam Omar, a dedicated full-stack developer and passionate educator. I specialize in building scalable web applications using cutting-edge technologies. Whether it’s developing advanced platforms for event ticketing, election management, or entertainment streaming, I bring ideas to life with clean, efficient code. I’m also available to mentor aspiring developers, offering personalized lessons on programming fundamentals, OOP, algorithms, and data structures.",
+    "collaborate": "Let's Collaborate",
+    "learn": "Start Learning"
+  },
+
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Language"
+  }
+}
